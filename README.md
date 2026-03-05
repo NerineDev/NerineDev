@@ -2,7 +2,7 @@
 
 💻 **Developer** • 🎨 **Designer** • 🧠 **Curious learner**
 
-I'm a full-stack student, artist and indie developer with a passion for building interactive, meaningful projects — from gamified productivity tools to narrative visual novels.
+I'm a dev student, artist and indie developer with a passion for building interactive, meaningful projects — from gamified productivity tools to narrative visual novels.
 
 ---
 
