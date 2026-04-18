@@ -2,7 +2,10 @@
   <img src="./assets/github-banner.png" alt="Nerine Aoi banner" width="100%" />
 </p>
 
-I'm a dev student, artist and indie developer with a passion for building interactive, meaningful projects — from gamified productivity tools to narrative visual novels.
+<h2 align="center">Digital development with creative care</h2>
+<p align="center">
+  Building polished apps, clean UI, and interactive experiences.
+</p>
 
 ---
 
