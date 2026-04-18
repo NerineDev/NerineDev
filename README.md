@@ -1,6 +1,6 @@
-# 🌸 Hi, I'm Nerine Aoi!
-
-💻 **Developer** • 🎨 **Designer** • 🧠 **Curious learner**
+<p align="center">
+  <img src="./assets/github-banner.png" alt="Nerine Aoi banner" width="100%" />
+</p>
 
 I'm a dev student, artist and indie developer with a passion for building interactive, meaningful projects — from gamified productivity tools to narrative visual novels.
 
