@@ -39,6 +39,12 @@ Always learning, building, and improving.
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,postgres,mysql,git,github,vscode&perline=6" />
+</p>
+
+## Also worked with
+
+<p align="center">
   Express · PHP · MySQL · Moodle · WordPress · Tailwind CSS
 </p>
 
