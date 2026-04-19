@@ -24,7 +24,7 @@ Always learning, building, and improving.
 ## Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,postgres,mysql,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,php,nodejs,postgres,git,github,vscode&perline=6" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Always learning, building, and improving.
 ## Supported tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,express,php,wordpress,tailwind,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,express,tailwind, mysql,wordpress,figma&perline=6" />
 </p>
 
 ### Also worked with
