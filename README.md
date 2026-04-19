@@ -25,14 +25,39 @@ Always learning, building, and improving.
   <img src="./assets/main-stack.png" alt="Main tech stack" width="90%" />
 </p>
 
-| Frontend&nbsp;&nbsp;&nbsp;&nbsp; | Backend&nbsp;&nbsp;&nbsp;&nbsp; | Tools&nbsp;&nbsp;&nbsp;&nbsp; |
-| --- | --- | --- |
-| HTML | Node.js | Git |
-| CSS | Python | GitHub |
-| JavaScript | PostgreSQL | VS Code |
-| TypeScript | MariaDB |  |
-| React | Swift |  |
-## Also worked with
+<p align="center">
+  <strong>Frontend</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Backend</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Tools</strong>
+</p>
+
+<p align="center">
+  HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Git
+</p>
+
+<p align="center">
+  CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  GitHub
+</p>
+
+<p align="center">
+  JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  VS Code
+</p>
+
+<p align="center">
+  TypeScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  MariaDB
+</p>
+
+<p align="center">
+  React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Swift
+</p>
 
 <p align="center">
   <img src="./assets/other.png" alt="Other tools and technologies" width="70%" />
