@@ -25,25 +25,25 @@ Always learning, building, and improving.
   <img src="./assets/main-stack.png" alt="Main tech stack" width="90%" />
 </p>
 
-<table align="center">
+<table align="center" width="80%">
   <tr>
-    <td align="center" valign="top">
-      <strong>Frontend</strong><br>
+    <td align="center" valign="top" width="33%">
+      <strong>Frontend</strong><br><br>
       HTML<br>
       CSS<br>
       JavaScript<br>
       TypeScript<br>
       React
     </td>
-    <td align="center" valign="top">
-      <strong>Backend</strong><br>
+    <td align="center" valign="top" width="33%">
+      <strong>Backend</strong><br><br>
       Node.js<br>
       Python<br>
       PostgreSQL<br>
       MariaDB
     </td>
-    <td align="center" valign="top">
-      <strong>Tools</strong><br>
+    <td align="center" valign="top" width="33%">
+      <strong>Tools</strong><br><br>
       Git<br>
       GitHub<br>
       VS Code
