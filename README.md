@@ -68,7 +68,7 @@ Always learning, building, and improving.
 
 A full-stack web application designed to handle bookings, availability, payments, and client communication through a structured workflow for both professionals and clients.
 
-**Stack:** HTML · CSS · JavaScript · Bootstrap · Python · FastAPI · SQLite / PostgreSQL  
+**Stack:** HTML · CSS · JavaScript · Bootstrap · Python · FastAPI · SQLite / PostgreSQL  <br>
 **Focus:** Booking flow · Availability control · Payment handling · Client/professional dashboard logic
 
 - 📅 Booking and availability management
@@ -88,7 +88,7 @@ A full-stack web application designed to handle bookings, availability, payments
 
 A full-stack web application for incident reporting, technician assignment, and maintenance tracking, designed to streamline communication between clients and service professionals.
 
-**Stack:** React · Node.js   
+**Stack:** React · Node.js   <br>
 **Focus:** Incident reporting · Assignment workflow · Maintenance tracking
 
 - 📝 Incident reporting and status tracking
@@ -114,7 +114,7 @@ A full-stack web application for incident reporting, technician assignment, and 
 
 A desktop communication tool designed to centralize messages, monitor connection health, and improve visibility across multiple channels for creators and community management workflows.
 
-**Stack:** Python · Tkinter
+**Stack:** Python · Tkinter <br>
 **Focus:** Unified inbox · Connection monitoring · Supporter message visibility
 
 <p align="center">
@@ -130,6 +130,7 @@ A desktop communication tool designed to centralize messages, monitor connection
 #### BYNERIAOI  
 
 Live creative portfolio site for illustration, design, and personal branding.
+
 **Stack:** HTML · CSS · JavaScript
 
 <p align="center">
@@ -163,7 +164,7 @@ Developer website and portfolio currently under construction.
 
 A story-rich visual novel project built around branching routes, emotional character arcs, and immersive worldbuilding, combining interactive storytelling with a strong visual and narrative identity.
 
-**Stack:** Ren’Py · Python
+**Stack:** Ren’Py · Python <br>
 **Focus:** Narrative design · Branching routes · Worldbuilding
 
 <p align="center">
@@ -183,7 +184,7 @@ A story-rich visual novel project built around branching routes, emotional chara
 
 A romance-focused visual novel project exploring interactive storytelling, character dynamics, and stylized narrative design through a more playful concept.
 
-**Stack:** Ren’Py · Python
+**Stack:** Ren’Py · Python <br>
 **Focus:** Interactive storytelling · Romance systems · Character-driven design
 
 <p align="center">
