@@ -40,7 +40,7 @@ Always learning, building, and improving.
 ## Supported tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,express,tailwind,mysql,wordpress,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,express,tailwind,mysql,wordpress,figma,eclipse&perline=6" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Always learning, building, and improving.
   <strong>Backend:</strong> express · Java · MySQL 
 </p>
 <p align="center">
-  <strong>Tools:</strong> Wordpress · Figma 
+  <strong>Tools:</strong> Wordpress · Figma · Eclipse 
 </p>
 
 ### Also worked with
