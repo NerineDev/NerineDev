@@ -19,6 +19,8 @@ Interested in thoughtful interfaces, polished user experiences, and creating wor
 
 Always learning, building, and improving.
 
+---
+
 ## Tech I work with
 
 <p align="center">
@@ -46,6 +48,8 @@ Always learning, building, and improving.
 <p align="center">
   Moodle · DataFlex
 </p>
+
+---
 
 ## 🔧 Featured Projects
 
