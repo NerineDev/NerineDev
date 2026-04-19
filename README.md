@@ -40,7 +40,7 @@ Always learning, building, and improving.
 ## Additional tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,java,express,sqlite,mysql,wordpress,figma,eclipse,ps,pr,ae,ubuntu,unity&perline=4" />
+  <img src="https://skillicons.dev/icons?i=java,express,sqlite,mysql,wordpress,figma,eclipse,ps,pr,ae,ubuntu,unity&perline=4" />
 </p>
 
 
