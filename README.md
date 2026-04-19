@@ -75,7 +75,7 @@ A full-stack web application designed to handle bookings, availability, payments
 - 💳 Payment and billing workflow
 - 👥 Separate flows for clients and professionals
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/NerineDev/pi-plataforma-citas-docs/">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sesvia repository" />
   </a>
@@ -95,7 +95,7 @@ A full-stack web application for incident reporting, technician assignment, and 
 - 🧑‍🔧 Technician assignment workflow
 - 🔧 Maintenance follow-up and management
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/NerineDev/benriserv_public">
     <img src="https://img.shields.io/badge/Repository-View%20Project-3b3b3b?style=for-the-badge&logo=github&logoColor=white" alt="BenriServ repository" />
   </a>
@@ -108,7 +108,7 @@ A full-stack web application for incident reporting, technician assignment, and 
 #### 💬 CarriComms 🚧
 *Multi-platform communication dashboard*
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/NerineDev/carricomms/main/branding/splash.png" alt="CarriComms splash screen" width="70%" />
 </p>
 
@@ -117,7 +117,7 @@ A desktop communication tool designed to centralize messages, monitor connection
 **Stack:** Python · Tkinter
 **Focus:** Unified inbox · Connection monitoring · Supporter message visibility
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/NerineDev/carricomms">
     <img src="https://img.shields.io/badge/Repository-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="CarriComms repository" />
   </a>
@@ -128,30 +128,37 @@ A desktop communication tool designed to centralize messages, monitor connection
 ### Websites
 
 #### BYNERIAOI  
-<p align="left">
+
+Live creative portfolio site for illustration, design, and personal branding.
+**Stack:** HTML · CSS · JavaScript
+
+<p align="center">
   <a href="https://byneriaoi.com">
     <img src="https://img.shields.io/badge/Website-Visit-d14d8b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website button" />
   </a>
 </p>
-Live creative portfolio site for illustration, design, and personal branding.
-**Stack:** HTML · CSS · JavaScript
+
+<p align="center">────────────────────────────────────────</p>
 
 #### NERI-CORE 🚧
-<p align="left">
+
+Developer website and portfolio currently under construction.
+**Stack:** HTML · CSS · JavaScript
+<p align="center">
   <a href="https://your-domain.com">
     <img src="https://img.shields.io/badge/Website-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website button" />
   </a>
 </p>
-Developer website and portfolio currently under construction.
-**Stack:** HTML · CSS · JavaScript
+
+<hr>
 
 ### Visual Novels
 
 #### 🌙 Once Upon a Tale
 *Narrative-driven otome visual novel*
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/NerineDev/onceuponatale/main/docs/images/logos/logo.png" alt="Once Upon a Tale logo" width="180" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NerineDev/onceuponatale/main/docs/images/logos/logo.png" alt="Once Upon a Tale logo" width="70%" />
 </p>
 
 A story-rich visual novel project built around branching routes, emotional character arcs, and immersive worldbuilding, combining interactive storytelling with a strong visual and narrative identity.
@@ -159,7 +166,7 @@ A story-rich visual novel project built around branching routes, emotional chara
 **Stack:** Ren’Py · Python
 **Focus:** Narrative design · Branching routes · Worldbuilding
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/NerineDev/onceuponatale">
     <img src="https://img.shields.io/badge/Repository-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Once Upon a Tale repository" />
   </a>
@@ -170,8 +177,8 @@ A story-rich visual novel project built around branching routes, emotional chara
 #### 💘 Cupid Hex
 *Romantic visual novel project*
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/NerineDev/cupid-hex/main/images/logos/Cupid%20Hex.png" alt="Cupid Hex logo" width="180" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NerineDev/cupid-hex/main/images/logos/Cupid%20Hex.png" alt="Cupid Hex logo" width="70%" />
 </p>
 
 A romance-focused visual novel project exploring interactive storytelling, character dynamics, and stylized narrative design through a more playful concept.
@@ -179,7 +186,7 @@ A romance-focused visual novel project exploring interactive storytelling, chara
 **Stack:** Ren’Py · Python
 **Focus:** Interactive storytelling · Romance systems · Character-driven design
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/NerineDev/cupid-hex">
     <img src="https://img.shields.io/badge/Repository-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cupid Hex repository" />
   </a>
@@ -196,13 +203,32 @@ A romance-focused visual novel project exploring interactive storytelling, chara
 
 <hr>
 
+## Contributions
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/NerineDev/NerineDev/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
-## 🌐 Find me around the web
+<hr>
 
-- 📸 [Instagram](https://instagram.com/byneriai)
-- 🎮 [Itch.io](https://nerineaoi.itch.io)
-- 💬 [X / Twitter](https://x.com/byneriaoi)
-- 🐙 [GitHub](https://github.com/nerineaoi)
+## Find me around the web
+
+<h2 align="left">Connect with me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ana-vertedor-03056939/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@nerineaoi">
+    <img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://nerineaoi.itch.io">
+    <img src="https://img.shields.io/badge/Itch.io-Play-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
+  </a>
+  <a href="YOUR_BYNERIAOI_URL">
+    <img src="https://img.shields.io/badge/byneriaoi-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="byneriaoi" />
+  </a>
+</p>
