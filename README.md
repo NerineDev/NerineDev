@@ -24,7 +24,7 @@ Always learning, building, and improving.
 ## Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,php,nodejs,postgres,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,php,nodejs,postgres,git,github,vscode&perline=6" />
 </p>
 
 <p align="center">
