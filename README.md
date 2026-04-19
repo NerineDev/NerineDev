@@ -26,39 +26,14 @@ Always learning, building, and improving.
 </p>
 
 <p align="center">
-  <strong>Frontend</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Backend</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Tools</strong>
+  <strong>Frontend:</strong> HTML · CSS · JavaScript · TypeScript · React
 </p>
-
 <p align="center">
-  HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Git
+  <strong>Backend:</strong> Node.js · Python · PostgreSQL · MariaDB · Swift
 </p>
-
 <p align="center">
-  CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  GitHub
+  <strong>Tools:</strong> Git · GitHub · VS Code
 </p>
-
-<p align="center">
-  JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  VS Code
-</p>
-
-<p align="center">
-  TypeScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  MariaDB
-</p>
-
-<p align="center">
-  React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Swift
-</p>
-
 <p align="center">
   <img src="./assets/other.png" alt="Other tools and technologies" width="70%" />
 </p>
