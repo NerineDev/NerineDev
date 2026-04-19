@@ -81,7 +81,9 @@ A full-stack web application designed to handle bookings, availability, payments
   </a>
 </p>
 
-#### 🧰 BenriServ  
+-
+
+#### 🧰 BenriServ 🚧 
 *Maintenance and technical management web app*
 
 A full-stack web application for incident reporting, technician assignment, and maintenance tracking, designed to streamline communication between clients and service professionals.
@@ -98,6 +100,49 @@ A full-stack web application for incident reporting, technician assignment, and 
     <img src="https://img.shields.io/badge/Repository-View%20Project-3b3b3b?style=for-the-badge&logo=github&logoColor=white" alt="BenriServ repository" />
   </a>
 </p>
+
+--
+
+### Desktop App
+
+#### 💬 CarriComms 🚧
+*Multi-platform communication dashboard*
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/NerineDev/carricomms/main/branding/splash.png" alt="CarriComms splash screen" width="70%" />
+</p>
+
+A desktop communication tool designed to centralize messages, monitor connection health, and improve visibility across multiple channels for creators and community management workflows.
+
+**Focus:** Unified inbox · Connection monitoring · Supporter message visibility
+
+<p align="left">
+  <a href="https://github.com/NerineDev/carricomms">
+    <img src="https://img.shields.io/badge/Repository-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="CarriComms repository" />
+  </a>
+</p>
+
+--
+
+### Websites
+
+#### BYNERIAOI  
+<p align="left">
+  <a href="https://byneriaoi.com">
+    <img src="https://img.shields.io/badge/Website-Visit-d14d8b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website button" />
+  </a>
+</p>
+Live creative portfolio site for illustration, design, and personal branding.
+
+#### NERI-CORE 🚧
+<p align="left">
+  <a href="https://your-domain.com">
+    <img src="https://img.shields.io/badge/Website-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website button" />
+  </a>
+</p>
+Developer website and portfolio currently under construction.
+
+--
 
 ### 🧠 **QuestDHD**  
 *ADHD / Gamified productivity*   
