@@ -24,7 +24,7 @@ Always learning, building, and improving.
 ## Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,php,nodejs,postgres,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,php,swift,nodejs,postgres,git,github,vscode&perline=7" />
 </p>
 
 <p align="center">
@@ -37,26 +37,29 @@ Always learning, building, and improving.
   <strong>Tools:</strong> Git · GitHub · VS Code
 </p>
 
-## Supported tools
+## Additional tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,express,tailwind,mysql,wordpress,figma,eclipse&perline=6" />
+  <img src="https://skillicons.dev/icons?i=tailwind,java,express,sqlite,mysql,wordpress,figma,eclipse,ps,pr,ae,ubuntu&perline=6" />
 </p>
 
 <p align="center">
-  <strong>Frontend:</strong> Tailwind css
+  <strong>Styling:</strong> Tailwind CSS
 </p>
 <p align="center">
-  <strong>Backend:</strong> express · Java · MySQL 
+  <strong>Backend:</strong> Express · Java · MySQL · SQLite 
 </p>
 <p align="center">
-  <strong>Tools:</strong> Wordpress · Figma · Eclipse 
+  <strong>Design & Creative:</strong> Figma · Photoshop · Premiere Pro · After Effects
+</p>
+<p align="center">
+  <strong>Platforms & Tools:</strong> Wordpress · Eclipse · Ubuntu 
 </p>
 
 ### Also worked with
 
 <p align="center">
-  Moodle · DataFlex · Tkinter · Ren'Py · MariaDB · Mermaid
+  Moodle · DataFlex · Tkinter · Ren'Py · MariaDB · Mermaid · Paint Tool SAI 2 · Wondershare
 </p>
 
 ---
