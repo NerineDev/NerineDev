@@ -213,8 +213,6 @@ A romance-focused visual novel project exploring interactive storytelling, chara
 
 ## Find me around the web
 
-<h2 align="left">Connect with me</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ana-vertedor-03056939/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
