@@ -24,7 +24,7 @@ Always learning, building, and improving.
 ## Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,php,swift,nodejs,postgres,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,python,react,php,swift,nodejs,postgres,git,github,vscode&perline=7" />
 </p>
 
 <p align="center">
@@ -40,12 +40,10 @@ Always learning, building, and improving.
 ## Additional tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,java,express,sqlite,mysql,wordpress,figma,eclipse,ps,pr,ae,ubuntu&perline=6" />
+  <img src="https://skillicons.dev/icons?i=tailwind,java,express,sqlite,mysql,wordpress,figma,eclipse,ps,pr,ae,ubuntu,unity&perline=4" />
 </p>
 
-<p align="center">
-  <strong>Styling:</strong> Tailwind CSS
-</p>
+
 <p align="center">
   <strong>Backend:</strong> Express · Java · MySQL · SQLite 
 </p>
@@ -53,7 +51,8 @@ Always learning, building, and improving.
   <strong>Design & Creative:</strong> Figma · Photoshop · Premiere Pro · After Effects
 </p>
 <p align="center">
-  <strong>Platforms & Tools:</strong> Wordpress · Eclipse · Ubuntu 
+  <strong>Platforms & Tools:</strong> Wordpress · Eclipse · Ubuntu · Unity 
+  
 </p>
 
 ### Also worked with
