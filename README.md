@@ -25,14 +25,13 @@ Always learning, building, and improving.
   <img src="./assets/main-stack.png" alt="Main tech stack" width="90%" />
 </p>
 
-| Frontend | Backend | Tools |
+| Frontend&nbsp;&nbsp;&nbsp;&nbsp; | Backend&nbsp;&nbsp;&nbsp;&nbsp; | Tools&nbsp;&nbsp;&nbsp;&nbsp; |
 | --- | --- | --- |
 | HTML | Node.js | Git |
 | CSS | Python | GitHub |
 | JavaScript | PostgreSQL | VS Code |
 | TypeScript | MariaDB |  |
 | React | Swift |  |
-
 ## Also worked with
 
 <p align="center">
