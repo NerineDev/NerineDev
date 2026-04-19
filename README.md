@@ -81,7 +81,7 @@ A full-stack web application designed to handle bookings, availability, payments
   </a>
 </p>
 
--
+<p align="center">────────────────────────────────────────</p>
 
 #### 🧰 BenriServ 🚧 
 *Maintenance and technical management web app*
@@ -101,7 +101,7 @@ A full-stack web application for incident reporting, technician assignment, and 
   </a>
 </p>
 
---
+<hr>
 
 ### Desktop App
 
@@ -122,7 +122,7 @@ A desktop communication tool designed to centralize messages, monitor connection
   </a>
 </p>
 
---
+<hr>
 
 ### Websites
 
@@ -142,21 +142,7 @@ Live creative portfolio site for illustration, design, and personal branding.
 </p>
 Developer website and portfolio currently under construction.
 
---
-
-### 🧠 **QuestDHD**  
-*ADHD / Gamified productivity*   
-`adhd | gamification | productivity | react | nodejs | fullstack | tfg | portfolio`  
-Gamified productivity app designed to help users with ADHD stay focused and motivated.
-
-
-### 🧰 **BenriServ**  
-*Maintenance / Technical management* 
-
-`maintenance | management | nodejs | react | fullstack | tfg | portfolio | webapp`  
-A unified web app for incident reporting, technician assignment, and maintenance tracking.
-
----
+<hr>
 
 ### 💘 **Once Upon a Tale**  
 *Visual novel / Original otome project*  
