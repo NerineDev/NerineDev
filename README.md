@@ -143,7 +143,8 @@ Live creative portfolio site for illustration, design, and personal branding.
 
 #### NERI-CORE 🚧
 
-Developer website and portfolio currently under construction.
+Developer website and portfolio currently under construction. 
+
 **Stack:** HTML · CSS · JavaScript
 <p align="center">
   <a href="https://your-domain.com">
