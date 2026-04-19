@@ -22,7 +22,7 @@ Always learning, building, and improving.
 ## Tech I work with
 
 <p align="center">
-  <img src="./assets/main-stack.png" alt="Main tech stack" width="90%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,postgres,mysql,git,github,vscode&perline=6" />
 </p>
 
 <p align="center">
@@ -38,14 +38,18 @@ Always learning, building, and improving.
   <img src="./assets/other.png" alt="Other tools and technologies" width="70%" />
 </p>
 
+## Supported tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,postgres,mysql,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=express,php,wordpress,tailwind,figma&perline=5" />
 </p>
+
+
 
 ## Also worked with
 
 <p align="center">
-  Express · PHP · MySQL · Moodle · WordPress · Tailwind CSS
+  Moodle · DataFlex
 </p>
 
 ## 🔧 Featured Projects
