@@ -19,7 +19,47 @@ Interested in thoughtful interfaces, polished user experiences, and creating wor
 
 Always learning, building, and improving.
 
+## Tech I work with
 
+<p align="center">
+  <img src="./assets/main-stack.png" alt="Main tech stack" width="90%" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <strong>Frontend</strong><br>
+      HTML<br>
+      CSS<br>
+      JavaScript<br>
+      TypeScript<br>
+      React
+    </td>
+    <td align="center" valign="top">
+      <strong>Backend</strong><br>
+      Node.js<br>
+      Python<br>
+      PostgreSQL<br>
+      MariaDB
+    </td>
+    <td align="center" valign="top">
+      <strong>Tools</strong><br>
+      Git<br>
+      GitHub<br>
+      VS Code
+    </td>
+  </tr>
+</table>
+
+## Also worked with
+
+<p align="center">
+  <img src="./assets/other.png" alt="Other tools and technologies" width="70%" />
+</p>
+
+<p align="center">
+  Express · PHP · MySQL · Moodle · WordPress · Tailwind CSS
+</p>
 
 ## 🔧 Featured Projects
 
