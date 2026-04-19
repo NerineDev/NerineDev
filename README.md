@@ -53,12 +53,41 @@ Always learning, building, and improving.
 
 ## 🔧 Featured Projects
 
+## Featured Projects
+
+### Web Apps
+
+### 🗓️ Sesvia  
+*Appointment and payment management platform*
+
+<p align="center">
+  <img src="https://github.com/NerineDev/pi-plataforma-citas-docs/blob/main/logos/sesvia-logo-1.png" alt="Sesvia logo" width="140" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NerineDev/pi-plataforma-citas-docs/main/ui/sesvia-prodash.jpg" alt="Sesvia professional dashboard" width="85%" />
+</p>
+
+A full-stack web application designed to handle bookings, availability, payments, and client communication through a structured workflow for both professionals and clients.
+
+**Stack:** HTML · CSS · JavaScript · Bootstrap · Python · FastAPI · SQLite / PostgreSQL  
+**Focus:** Booking flow · Availability control · Payment handling · Client/professional dashboard logic
+
+### 🧰 BenriServ  
+*Maintenance and technical management web app*
+
+A full-stack web application for incident reporting, technician assignment, and maintenance tracking, designed to streamline communication between clients and service professionals.
+
+**Stack:** React · Node.js   
+**Focus:** Incident reporting · Assignment workflow · Maintenance tracking
+
+
+
 ### 🧠 **QuestDHD**  
 *ADHD / Gamified productivity*   
 `adhd | gamification | productivity | react | nodejs | fullstack | tfg | portfolio`  
 Gamified productivity app designed to help users with ADHD stay focused and motivated.
 
----
 
 ### 🧰 **BenriServ**  
 *Maintenance / Technical management* 
