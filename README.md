@@ -190,7 +190,7 @@ A story-rich visual novel project built around branching routes, emotional chara
 *Romantic visual novel project*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NerineDev/cupid-hex/main/images/logos/Cupid%20Hex.png" alt="Cupid Hex logo" width="70%" />
+  <img src="https://raw.githubusercontent.com/NerineDev/cupid-hex/main/images/logos/Cupid%20Hex.png" alt="Cupid Hex logo" width="60%" />
 </p>
 
 A romance-focused visual novel project exploring interactive storytelling, character dynamics, and stylized narrative design through a more playful concept.
