@@ -40,7 +40,7 @@ Always learning, building, and improving.
 ## Supported tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,express,php,wordpress,tailwind,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,express,php,wordpress,tailwind,figma&perline=6" />
 </p>
 
 ### Also worked with
