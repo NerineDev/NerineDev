@@ -51,13 +51,11 @@ Always learning, building, and improving.
 
 ---
 
-## 🔧 Featured Projects
-
 ## Featured Projects
 
 ### Web Apps
 
-### 🗓️ Sesvia  
+#### 🗓️ Sesvia  
 *Appointment and payment management platform*
 
 <p align="center">
@@ -73,7 +71,17 @@ A full-stack web application designed to handle bookings, availability, payments
 **Stack:** HTML · CSS · JavaScript · Bootstrap · Python · FastAPI · SQLite / PostgreSQL  
 **Focus:** Booking flow · Availability control · Payment handling · Client/professional dashboard logic
 
-### 🧰 BenriServ  
+- 📅 Booking and availability management
+- 💳 Payment and billing workflow
+- 👥 Separate flows for clients and professionals
+
+<p align="left">
+  <a href="https://github.com/NerineDev/pi-plataforma-citas-docs/">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sesvia repository" />
+  </a>
+</p>
+
+#### 🧰 BenriServ  
 *Maintenance and technical management web app*
 
 A full-stack web application for incident reporting, technician assignment, and maintenance tracking, designed to streamline communication between clients and service professionals.
@@ -81,7 +89,15 @@ A full-stack web application for incident reporting, technician assignment, and 
 **Stack:** React · Node.js   
 **Focus:** Incident reporting · Assignment workflow · Maintenance tracking
 
+- 📝 Incident reporting and status tracking
+- 🧑‍🔧 Technician assignment workflow
+- 🔧 Maintenance follow-up and management
 
+<p align="left">
+  <a href="https://github.com/NerineDev/benriserv_public">
+    <img src="https://img.shields.io/badge/Repository-View%20Project-3b3b3b?style=for-the-badge&logo=github&logoColor=white" alt="BenriServ repository" />
+  </a>
+</p>
 
 ### 🧠 **QuestDHD**  
 *ADHD / Gamified productivity*   
