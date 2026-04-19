@@ -34,17 +34,12 @@ Always learning, building, and improving.
 <p align="center">
   <strong>Tools:</strong> Git · GitHub · VS Code
 </p>
-<p align="center">
-  <img src="./assets/other.png" alt="Other tools and technologies" width="70%" />
-</p>
 
 ## Supported tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=express,php,wordpress,tailwind,figma&perline=5" />
 </p>
-
-
 
 ## Also worked with
 
