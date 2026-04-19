@@ -211,6 +211,10 @@ A romance-focused visual novel project exploring interactive storytelling, chara
   <img src="https://raw.githubusercontent.com/NerineDev/NerineDev/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top languages" />
+</p>
+
 <hr>
 
 ## Find me around the web
