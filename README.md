@@ -3,11 +3,23 @@
 </p>
 
 <h2 align="center">Digital development with creative care</h2>
-<p align="center">
+<p align="center"><i>
   Building polished apps, clean UI, and interactive experiences.
-</p>
+</i></p>
 
 ---
+
+## About Me
+
+Fullstack developer with a background in graphic design, focused on building digital projects that bring together technical structure and creative thinking.
+
+Currently developing portfolio-ready applications with both frontend and backend components, while refining my skills in JavaScript, TypeScript, Python, React, and application architecture.
+
+Interested in thoughtful interfaces, polished user experiences, and creating work that feels both functional and well crafted.
+
+Always learning, building, and improving.
+
+
 
 ## 🔧 Featured Projects
 
