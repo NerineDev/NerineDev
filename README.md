@@ -46,7 +46,7 @@ Always learning, building, and improving.
 ### Also worked with
 
 <p align="center">
-  Moodle · DataFlex
+  Moodle · DataFlex · Tkinter · Ren'Py
 </p>
 
 ---
@@ -101,7 +101,7 @@ A full-stack web application for incident reporting, technician assignment, and 
   </a>
 </p>
 
-<hr>
+<hr style="height:1px;border:none;background-color:#30363d;">
 
 ### Desktop App
 
@@ -114,6 +114,7 @@ A full-stack web application for incident reporting, technician assignment, and 
 
 A desktop communication tool designed to centralize messages, monitor connection health, and improve visibility across multiple channels for creators and community management workflows.
 
+**Stack:** Python · Tkinter
 **Focus:** Unified inbox · Connection monitoring · Supporter message visibility
 
 <p align="left">
@@ -122,7 +123,7 @@ A desktop communication tool designed to centralize messages, monitor connection
   </a>
 </p>
 
-<hr>
+<hr style="height:1px;border:none;background-color:#30363d;">
 
 ### Websites
 
@@ -133,6 +134,7 @@ A desktop communication tool designed to centralize messages, monitor connection
   </a>
 </p>
 Live creative portfolio site for illustration, design, and personal branding.
+**Stack:** HTML · CSS · JavaScript
 
 #### NERI-CORE 🚧
 <p align="left">
@@ -141,15 +143,62 @@ Live creative portfolio site for illustration, design, and personal branding.
   </a>
 </p>
 Developer website and portfolio currently under construction.
+**Stack:** HTML · CSS · JavaScript
+
+### Visual Novels
+
+#### 🌙 Once Upon a Tale
+*Narrative-driven otome visual novel*
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/NerineDev/onceuponatale/main/docs/images/logos/logo.png" alt="Once Upon a Tale logo" width="180" />
+</p>
+
+A story-rich visual novel project built around branching routes, emotional character arcs, and immersive worldbuilding, combining interactive storytelling with a strong visual and narrative identity.
+
+**Stack:** Ren’Py · Python
+**Focus:** Narrative design · Branching routes · Worldbuilding
+
+<p align="left">
+  <a href="https://github.com/NerineDev/onceuponatale">
+    <img src="https://img.shields.io/badge/Repository-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Once Upon a Tale repository" />
+  </a>
+</p>
+
+<hr style="height:1px;border:none;background-color:#30363d;">
+
+#### 💘 Cupid Hex
+*Romantic visual novel project*
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/NerineDev/cupid-hex/main/images/logos/Cupid%20Hex.png" alt="Cupid Hex logo" width="180" />
+</p>
+
+A romance-focused visual novel project exploring interactive storytelling, character dynamics, and stylized narrative design through a more playful concept.
+
+**Stack:** Ren’Py · Python
+**Focus:** Interactive storytelling · Romance systems · Character-driven design
+
+<p align="left">
+  <a href="https://github.com/NerineDev/cupid-hex">
+    <img src="https://img.shields.io/badge/Repository-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cupid Hex repository" />
+  </a>
+</p>
 
 <hr>
 
-### 💘 **Once Upon a Tale**  
-*Visual novel / Original otome project*  
-`otome | visual-novel | renpy | narrative | game-dev | portfolio`  
-Original fantasy visual novel project exploring choice, emotion, and world-building.
+## Currently working on
 
----
+- Strengthening my full-stack workflow across frontend and backend projects
+- Building NERI-CORE, my developer website and portfolio
+- Developing UI, branding, and structure for portfolio-ready applications
+- Exploring product and concept design through side projects like QuestDHD
+
+<hr>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NerineDev/NerineDev/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
 
 ## 🌐 Find me around the web
 
