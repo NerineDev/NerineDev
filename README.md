@@ -229,7 +229,6 @@ A romance-focused visual novel project exploring interactive storytelling, chara
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NerineDev&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NerineDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
 <hr>
