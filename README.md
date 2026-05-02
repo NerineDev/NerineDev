@@ -159,7 +159,7 @@ Developer website and portfolio currently under construction.
 
 **Stack:** HTML · CSS · JavaScript
 <p align="center">
-  <a href="https://your-domain.com">
+  <a href="[https://your-domain.com](https://neri-core.com/)">
     <img src="https://img.shields.io/badge/Website-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website button" />
   </a>
 </p>
