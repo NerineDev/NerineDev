@@ -248,7 +248,7 @@ A romance-focused visual novel project exploring interactive storytelling, chara
   <a href="https://nerineaoi.itch.io">
     <img src="https://img.shields.io/badge/Itch.io-Play-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
   </a>
-  <a href="YOUR_BYNERIAOI_URL">
+  <a href="https://byneriaoi.com">
     <img src="https://img.shields.io/badge/byneriaoi-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="byneriaoi" />
   </a>
 </p>
