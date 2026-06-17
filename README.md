@@ -140,8 +140,8 @@ A desktop communication tool designed to centralize messages, monitor connection
 ### Websites
 
 #### LYNKORE
+*DEVELOP - DESIGN - CONNECT*
 
-Freelance web & app development brand focused on clean, scalable digital systems.
 <p align="center">
   <img src="./assets/lynkore-logo.webp" alt="LYNKORE logo" width="140" />
 </p>
@@ -150,7 +150,7 @@ Freelance web & app development brand focused on clean, scalable digital systems
   <img src="./assets/lynkore-homepage.webp" alt="LYNKORE homepage screenshot" alt="LYNKORE home page peview" width="85%" />
 </p>
 
-
+Freelance web & app development brand focused on clean, scalable digital systems.
 **Stack:** HTML · CSS · JavaScript
 <p align="center">
   <a href="https://lynkore.com">
