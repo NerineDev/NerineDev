@@ -151,6 +151,7 @@ A desktop communication tool designed to centralize messages, monitor connection
 </p>
 
 Freelance web & app development brand focused on clean, scalable digital systems.
+
 **Stack:** HTML · CSS · JavaScript
 <p align="center">
   <a href="https://lynkore.com">
