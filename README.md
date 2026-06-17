@@ -139,6 +139,27 @@ A desktop communication tool designed to centralize messages, monitor connection
 
 ### Websites
 
+#### LYNKORE
+
+Freelance web & app development brand focused on clean, scalable digital systems.
+<p align="center">
+  <img src="./assets/lynkore-logo.webp" alt="LYNKORE logo" width="140" />
+</p>
+
+<p align="center">
+  <img src="./assets/lynkore-homepage.webp" alt="LYNKORE homepage screenshot" alt="LYNKORE home page peview" width="85%" />
+</p>
+
+
+**Stack:** HTML · CSS · JavaScript
+<p align="center">
+  <a href="https://lynkore.com">
+    <img src="https://img.shields.io/badge/Website-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website button" />
+  </a>
+</p>
+
+<p align="center">────────────────────────────────────────</p>
+
 #### BYNERIAOI  
 
 Live creative portfolio site for illustration, design, and personal branding.
@@ -151,26 +172,6 @@ Live creative portfolio site for illustration, design, and personal branding.
   </a>
 </p>
 
-<p align="center">────────────────────────────────────────</p>
-
-#### LYNKORE
-
-Freelance web & app development brand focused on clean, scalable digital systems.
-<p align="center">
-  <img src="./assets/lynkore-logo.png" alt="LYNKORE logo" width="140" />
-</p>
-
-<p align="center">
-  <img src="./assets/lynkore-homepage.png" alt="LYNKORE homepage screenshot" alt="LYNKORE home page peview" width="85%" />
-</p>
-
-
-**Stack:** HTML · CSS · JavaScript
-<p align="center">
-  <a href="https://lynkore.com">
-    <img src="https://img.shields.io/badge/Website-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website button" />
-  </a>
-</p>
 
 <hr>
 
