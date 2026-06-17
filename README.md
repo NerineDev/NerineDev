@@ -155,13 +155,13 @@ Live creative portfolio site for illustration, design, and personal branding.
 
 #### LYNKORE
 
-Developer website and portfolio.
+Freelance web & app development brand focused on clean, scalable digital systems.
 <p align="center">
-  <img src="https://github.com/NerineDev/pi-plataforma-citas-docs/blob/main/logos/lynkore-logo.png" alt="LYNKORE logo" width="140" />
+  <img src="./assets/lynkore-logo.png" alt="LYNKORE logo" width="140" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NerineDev/pi-plataforma-citas-docs/main/ui/lynkore-home.png" alt="LYNKORE home page peview" width="85%" />
+  <img src="./assets/lynkore-homepage.png" alt="LYNKORE homepage screenshot" alt="LYNKORE home page peview" width="85%" />
 </p>
 
 
