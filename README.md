@@ -153,13 +153,21 @@ Live creative portfolio site for illustration, design, and personal branding.
 
 <p align="center">────────────────────────────────────────</p>
 
-#### NERI-CORE 🚧
+#### LYNKORE
 
-Developer website and portfolio currently under construction. 
+Developer website and portfolio.
+<p align="center">
+  <img src="https://github.com/NerineDev/pi-plataforma-citas-docs/blob/main/logos/lynkore-logo.png" alt="LYNKORE logo" width="140" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NerineDev/pi-plataforma-citas-docs/main/ui/lynkore-home.png" alt="LYNKORE home page peview" width="85%" />
+</p>
+
 
 **Stack:** HTML · CSS · JavaScript
 <p align="center">
-  <a href="https://neri-core.com">
+  <a href="https://lynkore.com">
     <img src="https://img.shields.io/badge/Website-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website button" />
   </a>
 </p>
